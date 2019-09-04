@@ -1,5 +1,4 @@
-![OpenWeather Logo](./img/openweather.png)
-Format: ![Open Weather's Logo](https://openweathermap.org/themes/openweathermap/assets/img/openweather-negative-logo-RGB.png)
+![OpenWeather Logo]('./img/openweather.png')
 
 # Weather_CLI
 
