@@ -1,4 +1,4 @@
-![OpenWeather Logo]('./img/openweather.png')
+![OpenWeather Logo](./img/openweather.png)
 
 # Weather_CLI
 
